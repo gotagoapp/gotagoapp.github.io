@@ -129,7 +129,9 @@ blockquote p {
   line-height: 2em;
 }
 
+-----------------------------------------------------------------
 
 .coming-soon {
 	text-align: center;
+	margin-top: 3em;
 }
