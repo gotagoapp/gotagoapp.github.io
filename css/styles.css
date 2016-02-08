@@ -1,6 +1,7 @@
 body {
   background-color: #45B29D;
   color: #FFFFFF;
+  text-align: center;
 }
 
 .navbar {
@@ -131,10 +132,5 @@ blockquote p {
 
 img {
 	padding: 2em;
-}
-
------------------------------------------------------------------
-
-.coming-soon {
 	text-align: center;
 }
