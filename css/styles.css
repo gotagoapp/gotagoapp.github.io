@@ -132,5 +132,10 @@ blockquote p {
 
 img {
 	padding: 2em;
-	text-align: center;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
