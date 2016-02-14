@@ -61,15 +61,16 @@ p {
   -khtml-border-radius: 10px;
 }
 
-.btn-hp {
-  background-color: #E2AF34;
-  border-color: #E2AF34;
+.btn {
+  background-color: #ffffff;
+  border-color: #ffffff;
+  color: #45B29D;
 }
 
-.btn-hp:hover {
-  background-color: #E2AF34;
-  border-color: #E2AF34;
-  color: #333;
+.btn:hover {
+  background-color: #ffffff;
+  border-color: #ffffff;
+  color: #45B29D;
   font-weight: bold;
 }
 
@@ -92,11 +93,11 @@ p {
 }
 
 a {
-  color: #E2AF34;
+  color: #45B29D;
 }
 
 a:hover {
-  color: #E2AF34;
+  color: #45B29D;
 }
 
 .header {
