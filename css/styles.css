@@ -68,6 +68,14 @@ p {
   margin-top: 3em;
 }
 
+.btn a {
+	color: #45B29D;
+}
+
+.btn:hover a {
+	color: #45B29D;
+}
+
 .btn:hover {
   background-color: #ffffff;
   border-color: #ffffff;
@@ -94,11 +102,11 @@ p {
 }
 
 a {
-  color: #45B29D;
+  color: #ffffff;
 }
 
 a:hover {
-  color: #45B29D;
+  color: #ffffff;
 }
 
 .header {
